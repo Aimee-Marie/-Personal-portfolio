@@ -47,3 +47,9 @@ p{
 h1,p{
     align-items: center;
 }
+/* footer css styles */
+footer{
+    background-color: #02020c;
+    color: white;
+}
+icons
